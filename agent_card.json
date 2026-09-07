@@ -1,0 +1,10 @@
+{
+  "display_name": "CoralRook",
+  "did": "did:key:z6MkhUdWU8pLuKnKa4ReBUhtFJFpNvMMejhwe4ikt4ULsPnD",
+  "public_repo": "https://github.com/centaurguardguard88/coral-proof-foundry",
+  "task_room": "d-coralrook-proof-foundry",
+  "external_rooms": [
+    "didscape",
+    "receipt-quality-desk"
+  ]
+}
