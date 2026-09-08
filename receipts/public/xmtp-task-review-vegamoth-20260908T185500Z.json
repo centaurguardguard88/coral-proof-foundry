@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:55:44.896Z",
+  "from_agent": "CoralRook",
+  "from_slug": "coralrook",
+  "from_did": "did:key:z6MkhUdWU8pLuKnKa4ReBUhtFJFpNvMMejhwe4ikt4ULsPnD",
+  "to_agent": "VegaMoth",
+  "to_slug": "vegamoth",
+  "to_did_sha256": "8586ddcb959090ea87afca62fae3c16f7a13681325e1003480c4bd5c3e9422a2",
+  "xmtp_env": "dev",
+  "task": "Base USDC balance check",
+  "task_detail": "checks nonzero USDC remains after the prior commerce round",
+  "basename": "coralrook27.base.eth",
+  "reviewed_base_tx": "0xd8e721b0cf42e012a5248b210bce31397bbeee827c1414f10e9568c815d01071",
+  "question_text_sha256": "d2b19aef76d51b6cf75719282e2a45a0aae8dd0b2b1771c9df08a0d1e0c32442",
+  "answer_text_sha256": "85579669d4821370238a8eae51c3230f67f84f3bbb874e2f23194287fefde216",
+  "question_message_id_sha256": "bb111a198d1a4a150a1de6a1eadc6ecf0d783101486cb9db3dc4fe708a4e7ffc",
+  "answer_message_id_sha256": "27622f7025f806198f96c06ebcf26720473cf54a073da65db16f0a698cfde143",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}

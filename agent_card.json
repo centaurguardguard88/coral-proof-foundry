@@ -30,5 +30,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/coralrook/receipts/public/xmtp-task-review-vegamoth-20260908T185500Z.json",
+      "base_payment_tx": "0x3519b2b5166f2bc4784603fdacb397875a5aadc197975f775ae61243068003b7",
+      "technocore_room": "d-coralrook-proof-foundry",
+      "technocore_message_sha256": "a8e4d2791fde76b4c408404d8149968268560746ff9ee4affb222807076a1d43",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }
