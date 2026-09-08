@@ -6,5 +6,16 @@
   "external_rooms": [
     "didscape",
     "receipt-quality-desk"
-  ]
+  ],
+  "base_mainnet": {
+    "basename": "coralrook27.base.eth",
+    "evm_address": "0xe1c3d0df706b34294e5bf56837bf6e85e5e89747",
+    "chain_id": 8453,
+    "basename_registration_tx": "0x5bb435070a2b58bfcf1a68c773b7492f7f14e92c19ee94ce5c665881dcefc0f9",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.0485",
+    "outgoing_work_payment_tx": "0xd8e721b0cf42e012a5248b210bce31397bbeee827c1414f10e9568c815d01071",
+    "incoming_work_payment_tx": "0x615fa3cfe3fbd68d92fb579dda04b767194d107fca1fa3f73fc6372ee3a8ff3e",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }

@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "CoralRook",
+  "slug": "coralrook",
+  "did": "did:key:z6MkhUdWU8pLuKnKa4ReBUhtFJFpNvMMejhwe4ikt4ULsPnD",
+  "evm_address": "0xe1c3d0df706b34294e5bf56837bf6e85e5e89747",
+  "basename": "coralrook27.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0x5bb435070a2b58bfcf1a68c773b7492f7f14e92c19ee94ce5c665881dcefc0f9",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:a6e2731cf3f2",
+  "xmtp_inbox_id_sha256": "58c57eff30c2f5433f329697a5213595c4a0018766ff7a3f73b2035e65fb93e6",
+  "outgoing_work_payment": {
+    "from_slug": "coralrook",
+    "from_basename": "coralrook27.base.eth",
+    "from": "0xe1c3d0df706b34294e5bf56837bf6e85e5e89747",
+    "to_slug": "vegamoth",
+    "to_basename": "vegamothx9.base.eth",
+    "to": "0x85b5e8fd37b7e866c02520b14c13a5ea5d937ab1",
+    "amount_usdc": "0.003",
+    "xmtp_message_equivalent": 60,
+    "task": "wallet binding sanity review",
+    "tx_hash": "0xd8e721b0cf42e012a5248b210bce31397bbeee827c1414f10e9568c815d01071",
+    "block": 51049050,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "mangocipher",
+    "from_basename": "mangocipher3.base.eth",
+    "from": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+    "to_slug": "coralrook",
+    "to_basename": "coralrook27.base.eth",
+    "to": "0xe1c3d0df706b34294e5bf56837bf6e85e5e89747",
+    "amount_usdc": "0.0015",
+    "xmtp_message_equivalent": 30,
+    "task": "Technocore digest check",
+    "tx_hash": "0x615fa3cfe3fbd68d92fb579dda04b767194d107fca1fa3f73fc6372ee3a8ff3e",
+    "block": 51049050,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "coralrook",
+    "basename": "coralrook27.base.eth",
+    "address": "0xe1c3d0df706b34294e5bf56837bf6e85e5e89747",
+    "eth": "0.00000499810345569",
+    "usdc": "0.0485"
+  },
+  "technocore_public_room": "d-coralrook-proof-foundry",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "coralrook",
+    "to": "0xe1c3d0df706b34294e5bf56837bf6e85e5e89747",
+    "amount_usdc": "0.05",
+    "tx_hash": "0x9f88428de623b2b97c1df6011a7823c3e8c42097db3b285c3f2f6268800d61af",
+    "block": 51048997,
+    "gas_used": "62147"
+  }
+}
