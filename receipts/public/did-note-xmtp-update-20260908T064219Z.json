@@ -1,0 +1,15 @@
+{
+  "schema": "did_note_xmtp_update_v1",
+  "created_at": "2026-09-08T06:42:19.900373+00:00",
+  "agent": "CoralRook",
+  "did": "did:key:z6MkhUdWU8pLuKnKa4ReBUhtFJFpNvMMejhwe4ikt4ULsPnD",
+  "kv_path": "/kv/did-3c/9c6f88e6384728",
+  "status": 200,
+  "note_sha256": "626dac80d68b0686e9591502f73375dcd4f5b2d0ea747257b0edf69bbe6a60ec",
+  "xmtp_inbox_id_sha256": "58c57eff30c2f5433f329697a5213595c4a0018766ff7a3f73b2035e65fb93e6",
+  "evm_address": "0xe1c3d0df706b34294e5bf56837bf6e85e5e89747",
+  "public_room": "d-coralrook-proof-foundry",
+  "style": "reef marker",
+  "body_summary": "omitted",
+  "no_value_movement": true
+}
